@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A cerca de..."
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bienvenido a YEEZY! En donde la moda es mas que un simple accesorio estetico. La marca fue fundada por Kayne West en 2010 y ha estado en constante crecimiento desde entonces, trabajando con marcas como: Louis Vutton, Nike, Adidas, GAP y Balenciaga. Cada una de estas marcas ha trabajado con YE de manera creativa para poder hacer de YEEZY de una marca de calidad creativa e inovadora en cuanto a las prendas de ropa que entregamos a cada uno de nuestros clientes, muchas de las prendas han tenido inspiracion de cada unos de los discos que West ha lanzado."
+        android:layout_marginTop="16dp"
+        android:textSize="16sp"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/logo" />
+
+    <!-- Agrega más vistas según sea necesario para mostrar información detallada -->
+
+</LinearLayout>

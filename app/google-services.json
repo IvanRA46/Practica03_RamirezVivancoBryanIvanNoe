@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557877883189",
+    "project_id": "notificaciones-d6fda",
+    "storage_bucket": "notificaciones-d6fda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557877883189:android:eba34ea83918d39d165c7c",
+        "android_client_info": {
+          "package_name": "com.example.practica01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vWRgSqveKSbEFSJRt-Q5tlwYxLO3ZPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
